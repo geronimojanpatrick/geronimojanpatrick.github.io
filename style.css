@@ -1,0 +1,57 @@
+h1 {
+    color:#a5cba3;
+}
+
+
+body {
+    background-color:#4A5759;   
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.degree {
+    color:#9bc7ac;
+}
+
+
+.school {
+   color: #edb59c;
+}
+
+.section {
+    color:#F7E1D7;
+}
+.bullets {
+    color: #EDAFB8;
+}
+
+.paragraph {
+    color: #EDAFB8;
+}
+
+h2 {
+    color:#a5cba3; 
+}
+
+.email {
+      color:#9bc7ac;
+}
+.address {
+     color: #edb59c;
+}
+
+img {
+  border-radius: 50%;
+}
+
+#left {
+    background-color: rgba(19, 87, 74, 0.71);
+    height: 100vh;
+    padding: 2em 2em 4em;
+}
+
+#right {
+    padding: 2em 2em 6em;
+    background-color: #343e40
+}
+
